@@ -3,7 +3,7 @@
 A full-stack web application to discover, book and manage events.
 **Stack:** React (Vite) + Bootstrap · Node.js + Express · MongoDB (Mongoose) · JWT authentication
 
-## Features (mapped to the 5 project modules)
+## Features 
 
 | Module                     | What is implemented                                                                                                                                                                                                                 |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
