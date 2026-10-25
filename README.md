@@ -144,3 +144,8 @@ The Express server also serves the built React app, so you only deploy **once** 
 4. _Connect → Drivers_ → copy the connection string, e.g.
    `mongodb+srv://USER:PASSWORD@cluster0.xxxxx.mongodb.net/event_booking?retryWrites=true&w=majority`
 5. (Optional) Fill Atlas with demo data: put this string as `MONGO_URI` in your local `server/.env`, run `npm run seed`, then change it back.
+6. Live demo: 
+Render -https://event-booking-system-i8u6.onrender.com
+Netlify-https://eventbook0.netlify.app/
+Vercel-https://event-booking-system-pink.vercel.app/
+
