@@ -1,4 +1,4 @@
-# 🎟️ EventBook – Event Booking System (MERN Stack)
+# 🎟️ EventBook – Event Booking System 
 
 A full-stack web application to discover, book and manage events.
 **Stack:** React (Vite) + Bootstrap · Node.js + Express · MongoDB (Mongoose) · JWT authentication
